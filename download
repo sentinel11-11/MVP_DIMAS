@@ -1,0 +1,1064 @@
+2026-05-12 23:52:14.715 | INFO     | app.parsers.drom.drom_parser:search:35 - DROM SEARCH: https://auto.drom.ru/bmw/x5/
+2026-05-12 23:52:14.716 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 0.82 sec
+2026-05-12 23:52:16.557 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bmw/x5/
+2026-05-12 23:52:16.647 | INFO     | app.parsers.drom.drom_parser:search:56 - REAL CARDS: 20
+2026-05-12 23:52:16.654 | INFO     | __main__:main:22 - FOUND ADS: 20
+2026-05-12 23:52:16.655 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-12 23:52:16.655 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.30 sec
+2026-05-12 23:52:18.950 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-12 23:52:18.988 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/609102121.html
+2026-05-12 23:52:18.988 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.00 sec
+2026-05-12 23:52:22.355 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/609102121.html
+2026-05-12 23:52:22.388 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/naberezhnye-chelny/bmw/x5/805602184.html
+2026-05-12 23:52:22.388 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.14 sec
+2026-05-12 23:52:24.889 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/naberezhnye-chelny/bmw/x5/805602184.html
+2026-05-12 23:52:24.931 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/897875792.html
+2026-05-12 23:52:24.938 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.73 sec
+2026-05-12 23:52:27.963 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/897875792.html
+2026-05-12 23:52:28.028 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ekaterinburg/bmw/x5/690740082.html
+2026-05-12 23:52:28.029 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.29 sec
+2026-05-12 23:52:31.637 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ekaterinburg/bmw/x5/690740082.html
+2026-05-12 23:52:31.672 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/150269072.html
+2026-05-12 23:52:31.672 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.95 sec
+2026-05-12 23:52:35.915 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/150269072.html
+2026-05-12 23:52:35.952 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ulyanovsk/bmw/x5/645638133.html
+2026-05-12 23:52:35.953 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.83 sec
+2026-05-12 23:52:38.067 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ulyanovsk/bmw/x5/645638133.html
+2026-05-12 23:52:38.103 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/703228690.html
+2026-05-12 23:52:38.104 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.00 sec
+2026-05-12 23:52:42.354 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/703228690.html
+2026-05-12 23:52:42.396 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/245316679.html
+2026-05-12 23:52:42.397 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.01 sec
+2026-05-12 23:52:45.689 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/245316679.html
+2026-05-12 23:52:45.745 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/262479807.html
+2026-05-12 23:52:45.746 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.59 sec
+2026-05-12 23:52:48.664 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/262479807.html
+2026-05-12 23:52:48.700 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/bataysk/bmw/x5/875910983.html
+2026-05-12 23:52:48.701 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.11 sec
+2026-05-12 23:52:51.127 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bataysk/bmw/x5/875910983.html
+2026-05-12 23:52:51.168 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/zhukovskiy/bmw/x5/680914191.html
+2026-05-12 23:52:51.168 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.59 sec
+2026-05-12 23:52:53.065 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/zhukovskiy/bmw/x5/680914191.html
+2026-05-12 23:52:53.100 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/364209166.html
+2026-05-12 23:52:53.100 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.75 sec
+2026-05-12 23:52:55.140 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/364209166.html
+2026-05-12 23:52:55.181 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/chelyabinsk/bmw/x5/655708895.html
+2026-05-12 23:52:55.181 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.11 sec
+2026-05-12 23:52:58.600 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/chelyabinsk/bmw/x5/655708895.html
+2026-05-12 23:52:58.639 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/tyumen/bmw/x5/338500186.html
+2026-05-12 23:52:58.639 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.89 sec
+2026-05-12 23:53:02.841 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/tyumen/bmw/x5/338500186.html
+2026-05-12 23:53:02.887 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/354565208.html
+2026-05-12 23:53:02.891 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.68 sec
+2026-05-12 23:53:04.909 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/354565208.html
+2026-05-12 23:53:04.950 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/664295143.html
+2026-05-12 23:53:04.951 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.98 sec
+2026-05-12 23:53:08.276 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/664295143.html
+2026-05-12 23:53:08.306 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/krasnoyarsk/bmw/x5/726679171.html
+2026-05-12 23:53:08.306 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.55 sec
+2026-05-12 23:53:10.141 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/krasnoyarsk/bmw/x5/726679171.html
+2026-05-12 23:53:10.183 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/481255993.html
+2026-05-12 23:53:10.183 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.26 sec
+2026-05-12 23:53:13.851 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/481255993.html
+2026-05-12 23:53:13.892 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/krasnoyarsk/bmw/x5/751765785.html
+2026-05-12 23:53:13.893 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.40 sec
+2026-05-12 23:53:17.609 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/krasnoyarsk/bmw/x5/751765785.html
+2026-05-12 23:53:17.650 | INFO     | __main__:main:29 - TOP DEALS READY
+2026-05-12 23:53:17.651 | INFO     | __main__:main:33 - [88.8] BMW X5, 2013 | 2550000 | chelyabinsk
+2026-05-12 23:53:17.651 | INFO     | __main__:main:33 - [86.3] BMW X5, 2017 | 3107000 | spb
+2026-05-12 23:53:17.652 | INFO     | __main__:main:33 - [85.8] BMW X5, 2020 | 3230000 | ulyanovsk
+2026-05-12 23:53:17.652 | INFO     | __main__:main:33 - [82.7] BMW X5, 2013 | 3200000 | moscow
+2026-05-12 23:53:17.652 | INFO     | __main__:main:33 - [76.7] BMW X5, 2013 | 3300000 | spb
+2026-05-12 23:53:17.652 | INFO     | __main__:main:33 - [75.4] BMW X5, 2014 | 3600000 | tyumen
+2026-05-12 23:53:17.652 | INFO     | __main__:main:33 - [75.0] BMW X5, 2017 | 3590000 | novosibirsk
+2026-05-12 23:53:17.652 | INFO     | __main__:main:33 - [70.5] BMW X5, 2015 | 4220000 | moscow
+2026-05-12 23:53:17.653 | INFO     | __main__:main:33 - [70.0] BMW X5, 2026 | 12499000 | novosibirsk
+2026-05-12 23:53:17.653 | INFO     | __main__:main:33 - [70.0] BMW X5, 2025 | 15500000 | zhukovskiy
+2026-05-13 00:02:21.593 | INFO     | app.parsers.drom.drom_parser:search:35 - DROM SEARCH: https://auto.drom.ru/mercedes/e63/
+2026-05-13 00:02:21.594 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.02 sec
+2026-05-13 00:02:23.348 | INFO     | app.utils.http_client:get:88 - STATUS 404: https://auto.drom.ru/mercedes/e63/
+2026-05-13 00:02:23.364 | INFO     | app.parsers.drom.drom_parser:search:56 - REAL CARDS: 0
+2026-05-13 00:02:23.365 | INFO     | __main__:run_analysis:32 - FOUND ADS: 0
+2026-05-13 00:02:23.365 | INFO     | __main__:run_analysis:64 - TOP DEALS READY
+2026-05-13 00:02:44.154 | INFO     | app.parsers.drom.drom_parser:search:35 - DROM SEARCH: https://auto.drom.ru/bmw/x5/
+2026-05-13 00:02:44.155 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 0.93 sec
+2026-05-13 00:02:47.696 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bmw/x5/
+2026-05-13 00:02:47.787 | INFO     | app.parsers.drom.drom_parser:search:56 - REAL CARDS: 20
+2026-05-13 00:02:47.793 | INFO     | __main__:run_analysis:32 - FOUND ADS: 20
+2026-05-13 00:02:47.794 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-13 00:02:47.794 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.40 sec
+2026-05-13 00:02:50.145 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-13 00:02:50.183 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/609102121.html
+2026-05-13 00:02:50.183 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.88 sec
+2026-05-13 00:02:52.399 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/609102121.html
+2026-05-13 00:02:52.437 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/naberezhnye-chelny/bmw/x5/805602184.html
+2026-05-13 00:02:52.438 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.80 sec
+2026-05-13 00:02:55.545 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/naberezhnye-chelny/bmw/x5/805602184.html
+2026-05-13 00:02:55.583 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/897875792.html
+2026-05-13 00:02:55.584 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.63 sec
+2026-05-13 00:02:59.221 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/897875792.html
+2026-05-13 00:02:59.289 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ekaterinburg/bmw/x5/690740082.html
+2026-05-13 00:02:59.289 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.27 sec
+2026-05-13 00:03:02.905 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ekaterinburg/bmw/x5/690740082.html
+2026-05-13 00:03:02.942 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/150269072.html
+2026-05-13 00:03:02.942 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.24 sec
+2026-05-13 00:03:06.465 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/150269072.html
+2026-05-13 00:03:06.504 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ulyanovsk/bmw/x5/645638133.html
+2026-05-13 00:03:06.505 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.81 sec
+2026-05-13 00:03:09.646 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ulyanovsk/bmw/x5/645638133.html
+2026-05-13 00:03:09.682 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/703228690.html
+2026-05-13 00:03:09.683 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.50 sec
+2026-05-13 00:03:13.502 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/703228690.html
+2026-05-13 00:03:13.540 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/245316679.html
+2026-05-13 00:03:13.541 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.03 sec
+2026-05-13 00:03:16.945 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/245316679.html
+2026-05-13 00:03:16.997 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/262479807.html
+2026-05-13 00:03:16.997 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.12 sec
+2026-05-13 00:03:21.541 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/262479807.html
+2026-05-13 00:03:21.578 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/bataysk/bmw/x5/875910983.html
+2026-05-13 00:03:21.578 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.47 sec
+2026-05-13 00:03:25.376 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bataysk/bmw/x5/875910983.html
+2026-05-13 00:03:25.418 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/zhukovskiy/bmw/x5/680914191.html
+2026-05-13 00:03:25.419 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.82 sec
+2026-05-13 00:03:29.540 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/zhukovskiy/bmw/x5/680914191.html
+2026-05-13 00:03:29.576 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/364209166.html
+2026-05-13 00:03:29.576 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.63 sec
+2026-05-13 00:03:32.534 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/364209166.html
+2026-05-13 00:03:32.574 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/chelyabinsk/bmw/x5/655708895.html
+2026-05-13 00:03:32.574 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.74 sec
+2026-05-13 00:03:35.616 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/chelyabinsk/bmw/x5/655708895.html
+2026-05-13 00:03:35.656 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/tyumen/bmw/x5/338500186.html
+2026-05-13 00:03:35.656 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.39 sec
+2026-05-13 00:03:38.323 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/tyumen/bmw/x5/338500186.html
+2026-05-13 00:03:38.378 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/354565208.html
+2026-05-13 00:03:38.379 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.18 sec
+2026-05-13 00:03:41.856 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/354565208.html
+2026-05-13 00:03:41.898 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/664295143.html
+2026-05-13 00:03:41.899 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.66 sec
+2026-05-13 00:03:44.853 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/664295143.html
+2026-05-13 00:03:44.894 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/krasnoyarsk/bmw/x5/726679171.html
+2026-05-13 00:03:44.895 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.81 sec
+2026-05-13 00:03:46.978 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/krasnoyarsk/bmw/x5/726679171.html
+2026-05-13 00:03:47.019 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/481255993.html
+2026-05-13 00:03:47.020 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.61 sec
+2026-05-13 00:03:49.944 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/481255993.html
+2026-05-13 00:03:49.986 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/krasnoyarsk/bmw/x5/751765785.html
+2026-05-13 00:03:49.986 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.17 sec
+2026-05-13 00:03:53.427 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/krasnoyarsk/bmw/x5/751765785.html
+2026-05-13 00:03:53.463 | INFO     | __main__:run_analysis:64 - TOP DEALS READY
+2026-05-13 00:03:53.463 | INFO     | __main__:run_analysis:68 - [96.0] BMW X5, 2017 | 3107000 | spb
+2026-05-13 00:03:53.464 | INFO     | __main__:run_analysis:68 - [96.0] BMW X5, 2020 | 3230000 | ulyanovsk
+2026-05-13 00:03:53.464 | INFO     | __main__:run_analysis:68 - [96.0] BMW X5, 2013 | 2550000 | chelyabinsk
+2026-05-13 00:03:53.464 | INFO     | __main__:run_analysis:68 - [88.0] BMW X5, 2017 | 3590000 | novosibirsk
+2026-05-13 00:03:53.464 | INFO     | __main__:run_analysis:68 - [82.0] BMW X5, 2013 | 3300000 | spb
+2026-05-13 00:03:53.464 | INFO     | __main__:run_analysis:68 - [82.0] BMW X5, 2014 | 3600000 | tyumen
+2026-05-13 00:03:53.465 | INFO     | __main__:run_analysis:68 - [80.0] BMW X5, 2026 | 12499000 | novosibirsk
+2026-05-13 00:03:53.465 | INFO     | __main__:run_analysis:68 - [80.0] BMW X5, 2025 | 22500000 | moscow
+2026-05-13 00:03:53.465 | INFO     | __main__:run_analysis:68 - [80.0] BMW X5, 2013 | 3200000 | moscow
+2026-05-13 00:03:53.465 | INFO     | __main__:run_analysis:68 - [80.0] BMW X5, 2025 | 15500000 | zhukovskiy
+2026-05-23 21:10:20.092 | INFO     | app.parsers.drom.drom_parser:search:35 - DROM SEARCH: https://auto.drom.ru/bmw/x5/
+2026-05-23 21:10:20.094 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 0.64 sec
+2026-05-23 21:10:21.999 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bmw/x5/
+2026-05-23 21:10:22.116 | INFO     | app.parsers.drom.drom_parser:search:56 - REAL CARDS: 20
+2026-05-23 21:10:22.125 | INFO     | __main__:run_analysis:41 - FOUND ADS: 20
+2026-05-23 21:10:22.125 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 21:10:22.125 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.17 sec
+2026-05-23 21:10:24.337 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 21:10:24.392 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2016',...'data_confidence': 0.76}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:10:24.392 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 21:10:24.393 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.87 sec
+2026-05-23 21:10:28.606 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 21:10:28.643 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2015',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:10:28.644 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 21:10:28.644 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.27 sec
+2026-05-23 21:10:32.249 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 21:10:32.288 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 2 validation errors for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2026',...'data_confidence': 0.52}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+mileage
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+2026-05-23 21:10:32.288 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 21:10:32.288 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.74 sec
+2026-05-23 21:10:34.356 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 21:10:34.394 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2002',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:10:34.394 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 21:10:34.395 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.45 sec
+2026-05-23 21:10:39.150 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 21:10:39.196 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 2 validation errors for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2026',... 'data_confidence': 0.6}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+mileage
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+2026-05-23 21:10:39.197 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 21:10:39.197 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.98 sec
+2026-05-23 21:10:43.494 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 21:10:43.562 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2024',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:10:43.562 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 21:10:43.562 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.29 sec
+2026-05-23 21:10:47.188 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 21:10:47.226 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 2 validation errors for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2008',... 'data_confidence': 0.6}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+mileage
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+2026-05-23 21:10:47.226 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 21:10:47.227 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.72 sec
+2026-05-23 21:10:49.284 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 21:10:49.332 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2016',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:10:49.333 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 21:10:49.333 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.95 sec
+2026-05-23 21:10:53.596 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 21:10:53.639 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2020',...'data_confidence': 0.84}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:10:53.640 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/kotelniki/bmw/x5/592770184.html
+2026-05-23 21:10:53.640 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.88 sec
+2026-05-23 21:10:57.833 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/kotelniki/bmw/x5/592770184.html
+2026-05-23 21:10:57.875 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 2 validation errors for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2011',... 'data_confidence': 0.6}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+mileage
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+2026-05-23 21:10:57.875 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/onohino/bmw/x5/927856122.html
+2026-05-23 21:10:57.876 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.77 sec
+2026-05-23 21:11:01.995 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/onohino/bmw/x5/927856122.html
+2026-05-23 21:11:02.056 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 2 validation errors for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2009',... 'data_confidence': 0.6}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+mileage
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+2026-05-23 21:11:02.057 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/sevastopol/bmw/x5/695413347.html
+2026-05-23 21:11:02.057 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.13 sec
+2026-05-23 21:11:06.608 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/sevastopol/bmw/x5/695413347.html
+2026-05-23 21:11:06.647 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2015',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:11:06.647 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/pyatigorsk/bmw/x5/634921873.html
+2026-05-23 21:11:06.647 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.29 sec
+2026-05-23 21:11:10.292 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/pyatigorsk/bmw/x5/634921873.html
+2026-05-23 21:11:10.329 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2005',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:11:10.329 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/747646193.html
+2026-05-23 21:11:10.330 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.66 sec
+2026-05-23 21:11:14.322 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/747646193.html
+2026-05-23 21:11:14.359 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2003',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:11:14.359 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/omsk/bmw/x5/933602925.html
+2026-05-23 21:11:14.360 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.83 sec
+2026-05-23 21:11:17.538 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/omsk/bmw/x5/933602925.html
+2026-05-23 21:11:17.573 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2002',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:11:17.574 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/738693981.html
+2026-05-23 21:11:17.574 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.71 sec
+2026-05-23 21:11:21.595 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/738693981.html
+2026-05-23 21:11:21.634 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2020',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:11:21.634 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/kemerovo/bmw/x5/349158434.html
+2026-05-23 21:11:21.634 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.14 sec
+2026-05-23 21:11:24.323 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/kemerovo/bmw/x5/349158434.html
+2026-05-23 21:11:24.392 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2007',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:11:24.393 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ekaterinburg/bmw/x5/539096604.html
+2026-05-23 21:11:24.393 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.16 sec
+2026-05-23 21:11:26.991 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ekaterinburg/bmw/x5/539096604.html
+2026-05-23 21:11:27.036 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2012',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:11:27.036 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/650033238.html
+2026-05-23 21:11:27.036 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.51 sec
+2026-05-23 21:11:29.975 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/650033238.html
+2026-05-23 21:11:30.027 | ERROR    | __main__:run_analysis:64 - DETAIL ERROR: 1 validation error for CarListing
+platform
+  Field required [type=missing, input_value={'title': 'BMW X5, 2007',...ce': 0.6799999999999999}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+2026-05-23 21:11:30.027 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/obuhovo/bmw/x5/807736812.html
+2026-05-23 21:11:30.028 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.89 sec
+2026-05-23 21:22:17.354 | INFO     | app.parsers.drom.drom_parser:search:35 - DROM SEARCH: https://auto.drom.ru/bmw/x5/
+2026-05-23 21:22:17.354 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.09 sec
+2026-05-23 21:22:19.756 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bmw/x5/
+2026-05-23 21:22:19.854 | INFO     | app.parsers.drom.drom_parser:search:56 - REAL CARDS: 20
+2026-05-23 21:22:19.861 | INFO     | __main__:run_analysis:36 - FOUND ADS: 20
+2026-05-23 21:22:19.861 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 21:22:19.862 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.30 sec
+2026-05-23 21:22:26.130 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 21:22:26.168 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 21:22:26.168 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.74 sec
+2026-05-23 21:22:30.286 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 21:22:30.320 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 21:22:30.321 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.15 sec
+2026-05-23 21:22:32.808 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 21:22:32.852 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 21:22:32.853 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.80 sec
+2026-05-23 21:22:35.919 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 21:22:35.955 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 21:22:35.956 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.44 sec
+2026-05-23 21:22:39.735 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 21:22:39.775 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 21:22:39.775 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.09 sec
+2026-05-23 21:22:44.226 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 21:22:44.290 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 21:22:44.291 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.96 sec
+2026-05-23 21:22:47.684 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 21:22:47.732 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 21:22:47.733 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.60 sec
+2026-05-23 21:22:51.691 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 21:22:51.727 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 21:22:51.728 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.11 sec
+2026-05-23 21:22:54.108 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 21:22:54.155 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 21:22:54.156 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.47 sec
+2026-05-23 21:22:57.956 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 21:22:57.998 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/kotelniki/bmw/x5/592770184.html
+2026-05-23 21:22:57.999 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.92 sec
+2026-05-23 21:23:00.209 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/kotelniki/bmw/x5/592770184.html
+2026-05-23 21:23:00.269 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/onohino/bmw/x5/927856122.html
+2026-05-23 21:23:00.269 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.75 sec
+2026-05-23 21:23:04.444 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/onohino/bmw/x5/927856122.html
+2026-05-23 21:23:04.487 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/sevastopol/bmw/x5/695413347.html
+2026-05-23 21:23:04.488 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.69 sec
+2026-05-23 21:23:08.496 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/sevastopol/bmw/x5/695413347.html
+2026-05-23 21:23:08.534 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/pyatigorsk/bmw/x5/634921873.html
+2026-05-23 21:23:08.534 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.62 sec
+2026-05-23 21:23:11.460 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/pyatigorsk/bmw/x5/634921873.html
+2026-05-23 21:23:11.495 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/747646193.html
+2026-05-23 21:23:11.496 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.00 sec
+2026-05-23 21:23:15.837 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/747646193.html
+2026-05-23 21:23:15.875 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/omsk/bmw/x5/933602925.html
+2026-05-23 21:23:15.876 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.71 sec
+2026-05-23 21:23:18.931 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/omsk/bmw/x5/933602925.html
+2026-05-23 21:23:18.968 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/738693981.html
+2026-05-23 21:23:18.968 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.35 sec
+2026-05-23 21:23:22.641 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/738693981.html
+2026-05-23 21:23:22.699 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/kemerovo/bmw/x5/349158434.html
+2026-05-23 21:23:22.699 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.69 sec
+2026-05-23 21:23:26.846 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/kemerovo/bmw/x5/349158434.html
+2026-05-23 21:23:26.897 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ekaterinburg/bmw/x5/539096604.html
+2026-05-23 21:23:26.897 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.93 sec
+2026-05-23 21:23:30.178 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ekaterinburg/bmw/x5/539096604.html
+2026-05-23 21:23:30.223 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/650033238.html
+2026-05-23 21:23:30.224 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.62 sec
+2026-05-23 21:23:33.176 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/650033238.html
+2026-05-23 21:28:32.277 | INFO     | app.parsers.drom.drom_parser:search:35 - DROM SEARCH: https://auto.drom.ru/bmw/x5/
+2026-05-23 21:28:32.278 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 0.65 sec
+2026-05-23 21:28:34.021 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bmw/x5/
+2026-05-23 21:28:34.119 | INFO     | app.parsers.drom.drom_parser:search:56 - REAL CARDS: 20
+2026-05-23 21:28:34.125 | INFO     | __main__:run_analysis:36 - FOUND ADS: 20
+2026-05-23 21:28:34.126 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 21:28:34.126 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 0.94 sec
+2026-05-23 21:28:36.088 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 21:28:36.127 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 21:28:36.127 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.01 sec
+2026-05-23 21:28:39.472 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 21:28:39.510 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/459346604.html
+2026-05-23 21:28:39.511 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.82 sec
+2026-05-23 21:28:42.639 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/459346604.html
+2026-05-23 21:28:42.684 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/881547786.html
+2026-05-23 21:28:42.685 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.75 sec
+2026-05-23 21:28:46.716 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/881547786.html
+2026-05-23 21:28:46.761 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 21:28:46.761 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.64 sec
+2026-05-23 21:28:50.679 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 21:28:50.722 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 21:28:50.723 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.50 sec
+2026-05-23 21:28:54.727 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 21:28:54.784 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 21:28:54.785 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.49 sec
+2026-05-23 21:28:56.589 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 21:28:56.629 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 21:28:56.629 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.38 sec
+2026-05-23 21:29:00.328 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 21:29:00.374 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 21:29:00.374 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.95 sec
+2026-05-23 21:29:03.640 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 21:29:03.688 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 21:29:03.688 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.21 sec
+2026-05-23 21:29:06.228 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 21:29:06.264 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 21:29:06.265 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.34 sec
+2026-05-23 21:29:11.000 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 21:29:11.067 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 21:29:11.067 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.37 sec
+2026-05-23 21:29:14.833 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 21:29:14.852 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/kotelniki/bmw/x5/592770184.html
+2026-05-23 21:29:14.852 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.77 sec
+2026-05-23 21:29:18.901 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/kotelniki/bmw/x5/592770184.html
+2026-05-23 21:29:18.917 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/onohino/bmw/x5/927856122.html
+2026-05-23 21:29:18.918 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.96 sec
+2026-05-23 21:29:21.224 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/onohino/bmw/x5/927856122.html
+2026-05-23 21:29:21.241 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/sevastopol/bmw/x5/695413347.html
+2026-05-23 21:29:21.241 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.03 sec
+2026-05-23 21:29:23.640 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/sevastopol/bmw/x5/695413347.html
+2026-05-23 21:29:23.674 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/pyatigorsk/bmw/x5/634921873.html
+2026-05-23 21:29:23.674 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.78 sec
+2026-05-23 21:29:25.797 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/pyatigorsk/bmw/x5/634921873.html
+2026-05-23 21:29:25.848 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/747646193.html
+2026-05-23 21:29:25.849 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.93 sec
+2026-05-23 21:29:29.084 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/747646193.html
+2026-05-23 21:29:29.118 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/omsk/bmw/x5/933602925.html
+2026-05-23 21:29:29.119 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.31 sec
+2026-05-23 21:29:31.797 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/omsk/bmw/x5/933602925.html
+2026-05-23 21:29:31.836 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/738693981.html
+2026-05-23 21:29:31.836 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.17 sec
+2026-05-23 21:29:34.335 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/738693981.html
+2026-05-23 21:29:34.373 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/kemerovo/bmw/x5/349158434.html
+2026-05-23 21:29:34.374 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.46 sec
+2026-05-23 21:29:38.146 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/kemerovo/bmw/x5/349158434.html
+2026-05-23 21:29:38.293 | INFO     | __main__:run_analysis:87 - TOP DEALS READY
+2026-05-23 21:29:38.294 | INFO     | __main__:run_analysis:91 - [0.988] BMW X5, 2020 | 7750000 ₽ | rostov-na-donu
+2026-05-23 21:29:38.294 | INFO     | __main__:run_analysis:91 - [0.986] BMW X5, 2019 | 6678046 ₽ | moscow
+2026-05-23 21:29:38.294 | INFO     | __main__:run_analysis:91 - [0.979] BMW X5, 2024 | 13000000 ₽ | spb
+2026-05-23 21:29:38.295 | INFO     | __main__:run_analysis:91 - [0.976] BMW X5, 2008 | 1350000 ₽ | nefteyugansk
+2026-05-23 21:29:38.295 | INFO     | __main__:run_analysis:91 - [0.971] BMW X5, 2016 | 2900000 ₽ | moscow
+2026-05-23 21:29:38.295 | INFO     | __main__:run_analysis:91 - [0.966] BMW X5, 2019 | 5246046 ₽ | moscow
+2026-05-23 21:29:38.295 | INFO     | __main__:run_analysis:91 - [0.946] BMW X5, 2015 | 4110000 ₽ | moscow
+2026-05-23 21:29:38.295 | INFO     | __main__:run_analysis:91 - [0.946] BMW X5, 2022 | 8600000 ₽ | ufa
+2026-05-23 21:29:38.295 | INFO     | __main__:run_analysis:91 - [0.946] BMW X5, 2016 | 3968000 ₽ | volgograd
+2026-05-23 21:29:38.295 | INFO     | __main__:run_analysis:91 - [0.937] BMW X5, 2026 | 15500000 ₽ | moscow
+2026-05-23 21:40:12.716 | INFO     | app.parsers.drom.drom_parser:search:35 - DROM SEARCH: https://auto.drom.ru/bmw/x5/
+2026-05-23 21:40:12.716 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.15 sec
+2026-05-23 21:40:15.640 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bmw/x5/
+2026-05-23 21:40:15.739 | INFO     | app.parsers.drom.drom_parser:search:56 - REAL CARDS: 20
+2026-05-23 21:40:15.746 | INFO     | __main__:run_analysis:37 - FOUND ADS: 20
+2026-05-23 21:40:15.747 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 21:40:15.747 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.36 sec
+2026-05-23 21:40:18.160 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 21:40:18.197 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 21:40:18.198 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.35 sec
+2026-05-23 21:40:20.875 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 21:40:20.913 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/204335957.html
+2026-05-23 21:40:20.914 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.46 sec
+2026-05-23 21:40:25.734 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/204335957.html
+2026-05-23 21:40:25.773 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/246323295.html
+2026-05-23 21:40:25.774 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.70 sec
+2026-05-23 21:40:27.778 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/246323295.html
+2026-05-23 21:40:27.823 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/459346604.html
+2026-05-23 21:40:27.824 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.05 sec
+2026-05-23 21:40:31.189 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/459346604.html
+2026-05-23 21:40:31.236 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/881547786.html
+2026-05-23 21:40:31.236 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.04 sec
+2026-05-23 21:40:33.623 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/881547786.html
+2026-05-23 21:40:33.688 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 21:40:33.689 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.41 sec
+2026-05-23 21:40:37.407 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 21:40:37.451 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 21:40:37.451 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.22 sec
+2026-05-23 21:40:40.997 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 21:40:41.033 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 21:40:41.034 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.53 sec
+2026-05-23 21:40:43.937 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 21:40:43.976 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 21:40:43.977 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.82 sec
+2026-05-23 21:40:48.111 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 21:40:48.156 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 21:40:48.157 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.25 sec
+2026-05-23 21:40:50.776 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 21:40:50.829 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 21:40:50.829 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.45 sec
+2026-05-23 21:40:52.607 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 21:40:52.644 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 21:40:52.645 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.93 sec
+2026-05-23 21:40:55.902 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 21:40:55.949 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 21:40:55.950 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.18 sec
+2026-05-23 21:40:58.501 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 21:40:58.543 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/kotelniki/bmw/x5/592770184.html
+2026-05-23 21:40:58.544 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.00 sec
+2026-05-23 21:41:02.940 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/kotelniki/bmw/x5/592770184.html
+2026-05-23 21:41:02.981 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/onohino/bmw/x5/927856122.html
+2026-05-23 21:41:02.981 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.83 sec
+2026-05-23 21:41:05.153 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/onohino/bmw/x5/927856122.html
+2026-05-23 21:41:05.215 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/sevastopol/bmw/x5/695413347.html
+2026-05-23 21:41:05.215 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.41 sec
+2026-05-23 21:41:09.133 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/sevastopol/bmw/x5/695413347.html
+2026-05-23 21:41:09.172 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/pyatigorsk/bmw/x5/634921873.html
+2026-05-23 21:41:09.172 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.37 sec
+2026-05-23 21:41:11.896 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/pyatigorsk/bmw/x5/634921873.html
+2026-05-23 21:41:11.931 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/747646193.html
+2026-05-23 21:41:11.931 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.27 sec
+2026-05-23 21:41:14.548 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/747646193.html
+2026-05-23 21:41:14.587 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/omsk/bmw/x5/933602925.html
+2026-05-23 21:41:14.587 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.81 sec
+2026-05-23 21:41:16.813 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/omsk/bmw/x5/933602925.html
+2026-05-23 21:45:51.043 | INFO     | app.parsers.drom.drom_parser:search:35 - DROM SEARCH: https://auto.drom.ru/bmw/x5/
+2026-05-23 21:45:51.044 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.05 sec
+2026-05-23 21:45:53.236 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bmw/x5/
+2026-05-23 21:45:53.333 | INFO     | app.parsers.drom.drom_parser:search:56 - REAL CARDS: 20
+2026-05-23 21:45:53.340 | INFO     | __main__:run_analysis:24 - FOUND ADS: 20
+2026-05-23 21:45:53.340 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 21:45:53.340 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 0.94 sec
+2026-05-23 21:45:55.334 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 21:45:55.372 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 5 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+2026-05-23 21:45:55.373 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 21:45:55.373 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.53 sec
+2026-05-23 21:45:57.259 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 21:45:57.297 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:45:57.298 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/934827661.html
+2026-05-23 21:45:57.298 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.96 sec
+2026-05-23 21:46:00.703 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/934827661.html
+2026-05-23 21:46:00.739 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:00.740 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/204335957.html
+2026-05-23 21:46:00.740 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.67 sec
+2026-05-23 21:46:02.735 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/204335957.html
+2026-05-23 21:46:02.775 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:02.775 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/246323295.html
+2026-05-23 21:46:02.776 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.31 sec
+2026-05-23 21:46:05.420 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/246323295.html
+2026-05-23 21:46:05.465 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:05.465 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/459346604.html
+2026-05-23 21:46:05.466 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.44 sec
+2026-05-23 21:46:09.285 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/459346604.html
+2026-05-23 21:46:09.351 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 5 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:09.352 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/881547786.html
+2026-05-23 21:46:09.352 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.91 sec
+2026-05-23 21:46:13.551 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/881547786.html
+2026-05-23 21:46:13.598 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:13.599 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 21:46:13.599 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.20 sec
+2026-05-23 21:46:17.082 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 21:46:17.123 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:17.123 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 21:46:17.124 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.22 sec
+2026-05-23 21:46:21.672 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 21:46:21.710 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 7 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+drive
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:21.711 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 21:46:21.711 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.65 sec
+2026-05-23 21:46:24.704 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 21:46:24.742 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:24.743 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 21:46:24.743 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.23 sec
+2026-05-23 21:46:28.259 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 21:46:28.323 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:28.323 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 21:46:28.324 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.22 sec
+2026-05-23 21:46:31.809 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 21:46:31.857 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:31.858 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 21:46:31.858 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.40 sec
+2026-05-23 21:46:34.565 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 21:46:34.593 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:34.593 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 21:46:34.593 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.35 sec
+2026-05-23 21:46:39.341 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 21:46:39.386 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:39.386 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 21:46:39.387 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.68 sec
+2026-05-23 21:46:42.441 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 21:46:42.481 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 4 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+2026-05-23 21:46:42.481 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/kotelniki/bmw/x5/592770184.html
+2026-05-23 21:46:42.482 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.51 sec
+2026-05-23 21:46:45.301 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/kotelniki/bmw/x5/592770184.html
+2026-05-23 21:46:45.360 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:45.360 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/onohino/bmw/x5/927856122.html
+2026-05-23 21:46:45.361 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.82 sec
+2026-05-23 21:46:49.566 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/onohino/bmw/x5/927856122.html
+2026-05-23 21:46:49.603 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:49.603 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/sevastopol/bmw/x5/695413347.html
+2026-05-23 21:46:49.604 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.52 sec
+2026-05-23 21:46:51.552 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/sevastopol/bmw/x5/695413347.html
+2026-05-23 21:46:51.590 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:51.590 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/pyatigorsk/bmw/x5/634921873.html
+2026-05-23 21:46:51.591 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.48 sec
+2026-05-23 21:46:53.394 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/pyatigorsk/bmw/x5/634921873.html
+2026-05-23 21:46:53.429 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:53.429 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/747646193.html
+2026-05-23 21:46:53.430 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.01 sec
+2026-05-23 21:46:56.763 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/747646193.html
+2026-05-23 21:46:56.801 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 6 validation errors for CarListing
+brand
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+model
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+body_type
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+owners
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+accidents
+  Input should be a valid integer [type=int_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/int_type
+pts
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.13/v/string_type
+2026-05-23 21:46:56.801 | WARNING  | __main__:run_analysis:47 - NO VALID CARS
+2026-05-23 19:08:21.674 | INFO     | app.parsers.drom.drom_parser:search:35 - DROM SEARCH: https://auto.drom.ru/bmw/x5/
+2026-05-23 19:08:21.674 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 0.74 sec
+2026-05-23 19:08:23.414 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bmw/x5/
+2026-05-23 19:08:23.471 | INFO     | app.parsers.drom.drom_parser:search:56 - REAL CARDS: 20
+2026-05-23 19:08:23.487 | INFO     | __main__:run_analysis:24 - FOUND ADS: 20
+2026-05-23 19:08:23.487 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 19:08:23.487 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 0.79 sec
+2026-05-23 19:08:25.541 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 19:08:25.555 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 19:08:25.555 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.28 sec
+2026-05-23 19:08:28.463 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 19:08:28.510 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/880331304.html
+2026-05-23 19:08:28.510 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.89 sec
+2026-05-23 19:08:31.125 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/880331304.html
+2026-05-23 19:08:31.137 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/934827661.html
+2026-05-23 19:08:31.137 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.39 sec
+2026-05-23 19:08:35.353 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/934827661.html
+2026-05-23 19:08:35.371 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/204335957.html
+2026-05-23 19:08:35.371 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.12 sec
+2026-05-23 19:08:38.097 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/204335957.html
+2026-05-23 19:08:38.110 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/246323295.html
+2026-05-23 19:08:38.110 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.36 sec
+2026-05-23 19:08:42.146 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/246323295.html
+2026-05-23 19:08:42.168 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/459346604.html
+2026-05-23 19:08:42.168 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.99 sec
+2026-05-23 19:08:44.808 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/459346604.html
+2026-05-23 19:08:44.833 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/881547786.html
+2026-05-23 19:08:44.833 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.58 sec
+2026-05-23 19:08:49.029 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/881547786.html
+2026-05-23 19:08:49.053 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 19:08:49.053 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.12 sec
+2026-05-23 19:08:53.829 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 19:08:53.852 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 19:08:53.852 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.02 sec
+2026-05-23 19:08:59.335 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 19:08:59.350 | ERROR    | __main__:run_analysis:43 - DETAIL ERROR: 1 validation error for CarListing
+drive
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/string_type
+2026-05-23 19:08:59.350 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 19:08:59.350 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.90 sec
+2026-05-23 19:09:01.952 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 19:09:01.971 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 19:09:01.972 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.22 sec
+2026-05-23 19:09:06.854 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 19:09:06.872 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 19:09:06.872 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.15 sec
+2026-05-23 19:09:11.692 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 19:09:11.713 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 19:09:11.713 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.00 sec
+2026-05-23 19:09:15.369 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 19:09:15.389 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 19:09:15.389 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.06 sec
+2026-05-23 19:09:18.214 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 19:09:18.237 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 19:09:18.237 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.76 sec
+2026-05-23 19:09:33.175 | INFO     | app.parsers.drom.drom_parser:search:35 - DROM SEARCH: https://auto.drom.ru/bmw/x5/
+2026-05-23 19:09:33.175 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 0.81 sec
+2026-05-23 19:09:34.937 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/bmw/x5/
+2026-05-23 19:09:34.991 | INFO     | app.parsers.drom.drom_parser:search:56 - REAL CARDS: 20
+2026-05-23 19:09:34.994 | INFO     | __main__:run_analysis:24 - FOUND ADS: 20
+2026-05-23 19:09:34.994 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 19:09:34.994 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.46 sec
+2026-05-23 19:09:37.334 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/770891396.html
+2026-05-23 19:09:37.349 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 19:09:37.350 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.34 sec
+2026-05-23 19:09:40.262 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/215323171.html
+2026-05-23 19:09:40.309 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/880331304.html
+2026-05-23 19:09:40.309 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.84 sec
+2026-05-23 19:09:42.898 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/880331304.html
+2026-05-23 19:09:42.909 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/934827661.html
+2026-05-23 19:09:42.910 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.25 sec
+2026-05-23 19:09:47.720 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/934827661.html
+2026-05-23 19:09:47.734 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/204335957.html
+2026-05-23 19:09:47.735 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.30 sec
+2026-05-23 19:09:51.575 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/204335957.html
+2026-05-23 19:09:51.589 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/246323295.html
+2026-05-23 19:09:51.589 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.41 sec
+2026-05-23 19:09:55.541 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/246323295.html
+2026-05-23 19:09:55.557 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/459346604.html
+2026-05-23 19:09:55.557 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.51 sec
+2026-05-23 19:09:59.027 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/459346604.html
+2026-05-23 19:09:59.052 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/881547786.html
+2026-05-23 19:09:59.052 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.94 sec
+2026-05-23 19:10:02.618 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/881547786.html
+2026-05-23 19:10:02.633 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 19:10:02.633 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.75 sec
+2026-05-23 19:10:07.053 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/ufa/bmw/x5/584912991.html
+2026-05-23 19:10:07.073 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 19:10:07.073 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.06 sec
+2026-05-23 19:10:09.759 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/662185397.html
+2026-05-23 19:10:09.776 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 19:10:09.776 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.35 sec
+2026-05-23 19:10:13.821 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/novosibirsk/bmw/x5/833875989.html
+2026-05-23 19:10:13.835 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 19:10:13.836 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.50 sec
+2026-05-23 19:10:16.995 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/moscow/bmw/x5/455044034.html
+2026-05-23 19:10:17.011 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 19:10:17.012 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 1.97 sec
+2026-05-23 19:10:19.653 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/spb/bmw/x5/274519868.html
+2026-05-23 19:10:19.675 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 19:10:19.675 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 2.93 sec
+2026-05-23 19:10:24.384 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/nefteyugansk/bmw/x5/349751877.html
+2026-05-23 19:10:24.396 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 19:10:24.396 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 4.25 sec
+2026-05-23 19:10:29.686 | INFO     | app.utils.http_client:get:88 - STATUS 200: https://auto.drom.ru/volgograd/bmw/x5/505411251.html
+2026-05-23 19:10:29.707 | INFO     | app.parsers.drom.drom_detail_parser:parse:19 - DETAIL V5: https://auto.drom.ru/rostov-na-donu/bmw/x5/161959962.html
+2026-05-23 19:10:29.708 | INFO     | app.utils.http_client:_smart_sleep:51 - Sleep: 3.65 sec
